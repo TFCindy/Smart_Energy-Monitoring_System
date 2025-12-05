@@ -21,28 +21,28 @@ Organizations face challenges in monitoring and controlling energy consumption a
 ## 📸 Visual Documentation
 
 ### 🏆 Dashboard Overview
-![Main Dashboard](screenshots/oem_monitoring/dashboard2.png)
+![Main Dashboard](Screenshots/oem_monitoring/dashboard2.png)
 *Interactive BI dashboard with Executive, Audit, and Performance tabs*
 
 ### 🔐 Business Rule in Action
-![Weekday DML Blocked](screenshots/test_results/weekday_blocked.png)
+![Weekday DML Blocked](Screenshots/test_results/weekday_blocked.png)
 *Real-time enforcement: INSERT operation blocked on Monday with clear error message*
 
 ### 📋 Audit & Compliance
-![Audit Trail](screenshots/test_results/audit_log_entries.png)
+![Audit Trail](Screenshots/test_results/audit_log_entries.png)
 *Complete audit log showing user, operation, restriction reason, and timestamp*
 
 ### ⚡ Performance Analytics  
-![Building Performance](screenshots/oem_monitoring/dashboard.png)
+![Building Performance](Screenshots/oem_monitoring/dashboard.png)
 *Building ranking, consumption trends, and threshold violation heatmap*
 
 ### 🧪 Testing Verification
-![Test Results](screenshots/test_results/performance_test_results.png)
+![Test Results](Screenshots/test_results/performance_test_results.png)
 *Comprehensive test suite showing all requirements met*
 
 ### 🗄️ Database Schema
 ![ER Diagram](database/database_design/ER_diagram.drawio.png)
-*Database architecture with 7 core tables and relationships*
+*Database architecture with 8 core tables and relationships*
 
 
 ## 🚀 Quick Start Instructions
