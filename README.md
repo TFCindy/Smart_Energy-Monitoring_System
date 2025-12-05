@@ -62,9 +62,9 @@ Organizations face challenges in monitoring and controlling energy consumption a
 📋 **[Business Requirements](business_intelligence/bi_requirements.md)** - Stakeholder analysis and BI specs  
 📊 **[Dashboard Designs](business_intelligence/dashboards.md)** - UI mockups and implementation  
 📈 **[KPI Definitions](business_intelligence/kpi_definitions.md)** - Metrics and calculations  
-🗄️ **[Data Dictionary](documentation/data_dictionary.md)** - Database schema reference  
-🏗️ **[System Architecture](documentation/architecture.md)** - Technical architecture  
-🤔 **[Design Decisions](documentation/design_decisions.md)** - Technical choices made
+🗄️ **[Data Dictionary](Documentation/data_dictionary.md)** - Database schema reference  
+🏗️ **[System Architecture](Documentation/architecture.md)** - Technical architecture  
+🤔 **[Design Decisions](Documentation/design_decisions.md)** - Technical choices made
 
 ### Complete Test Results - Validation tests
 
